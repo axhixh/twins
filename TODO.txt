@@ -1,0 +1,4 @@
+To Do
+1. auto update issues using the query server/issues?jql=project %3D DCE AND (updated >%3D-1d or created >%3D -1d)
+2. parallelize processing
+3. add a way to get a issue most similar to given issue
